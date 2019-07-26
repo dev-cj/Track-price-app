@@ -3,7 +3,7 @@
 
 #### Requirement
 * Python 
-* Request
+* Requests
   - pip install requests
 * Beautiful Soup
   - pip install beautifulsoup4
