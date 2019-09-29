@@ -1,5 +1,5 @@
 # Track-price-app
-## This python script tracks price of a amazon product and send mail to user if price falls down
+## This python script tracks the price of an amazon product and sends mail to user if price falls down
 
 #### Requirement
 * Python 
